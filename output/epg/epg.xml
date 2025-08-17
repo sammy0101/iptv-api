@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250817043210 +0800">
+<tv date="20250817102923 +0800">
 	<channel id="CCTV-15">
 		<display-name lang="zh">CCTV-15</display-name>
 	</channel>
@@ -4594,6 +4594,21 @@
 	<programme channel="黑莓动画" start="20250817091100 +0800" stop="20250817103900 +0800">
 		<title lang="zh">太空勇狗队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250817103900 +0800" stop="20250817112800 +0800">
+		<title lang="zh">01_超级火箭发动机</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250817112800 +0800" stop="20250817125700 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250817125700 +0800" stop="20250817143000 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250817143000 +0800" stop="20250817153600 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250817153600 +0800" stop="20250817172700 +0800">
+		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -4614,6 +4629,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250817085600 +0800" stop="20250817110300 +0800">
 		<title lang="zh">大红包2：龙凤呈祥</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250817110300 +0800" stop="20250817123100 +0800">
+		<title lang="zh">Z风暴</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250817123100 +0800" stop="20250817140000 +0800">
+		<title lang="zh">妖铃铃</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250817140000 +0800" stop="20250817161400 +0800">
+		<title lang="zh">夺冠</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
