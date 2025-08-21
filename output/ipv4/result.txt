@@ -1,29 +1,30 @@
 🕘️更新时间,#genre#
-2025-08-21 10:44:17,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+2025-08-21 18:21:21,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-无线新闻台,http://api.mytv666.top/api/hk.php?id=6264343831353330323337393639393931616235303439316135313462356130267469643d77696e74763132332669643d3136
-无线新闻台,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+无线新闻,http://api.mytv666.top/api/hk.php?id=6264343831353330323337393639393931616235303439316135313462356130267469643d77696e74763132332669643d3136
+无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-港台电视 31,http://api.mytv666.top/api/hk.php?id=6630336330336334333234646561366462633461663430653938303762613834267469643d77696e74763132332669643d3430
+港台电视 31,http://api.mytv666.top/api/hk.php?id=6334396336393462363037333730353331323135386365643063323965656438267469643d74762669643d3435
 港台电视 31,http://iptv.4666888.xyz/iptv.php?id=20080
 港台电视 31,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
-港台电视 32,http://api.mytv666.top/api/hk.php?id=3030323835633661623836393939353163626431613239353335373762336565267469643d77696e74763132332669643d3431
+港台电视 32,http://api.mytv666.top/api/hk.php?id=3335636435633735323034636235316236373935323037366361653331656235267469643d74762669643d3436
 港台电视 32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -43,22 +44,15 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 东森洋片,http://iptv.4666888.xyz/iptv.php?id=20212
 
 🏀体育频道,#genre#
-CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.81:11111
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
-CCTV-5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
-纬来体育,http://api.mytv666.top/api/hk.php?id=3131306433316436386566396535356262303237306166353463653738636565267469643d77696e74763132332669643d3739
+纬来体育,http://api.mytv666.top/api/hk.php?id=6330343464373162386136666261663835613165633337366136386437306133267469643d74762669643d3737
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport
-纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
-纬来体育,rtmp://116.93.98.236/sat/tv721.flv
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
-纬来体育,rtmp://60.248.77.83/sat/tv721
-纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
-广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.106:11111
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -67,8 +61,8 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🎵音乐频道,#genre#
 CCTV-15,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv15
-CCTV-15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
 CCTV-15,http://drive.mxmy.net:8888/udp/239.3.1.153:8136
+CCTV-15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
